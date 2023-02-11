@@ -1,7 +1,8 @@
-# clary-s-to-do-list
+# Clary-s-To-Do-List
 To-Do List CLI with Go
 A simple command line interface for managing personal to-do tasks, written in Go.
-Features
+
+Features:
 
     Adding a task
     Removing a task
